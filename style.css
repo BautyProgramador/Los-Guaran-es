@@ -1,0 +1,53 @@
+h1 {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+h2 {
+  font-weight: bold;
+  font-size: 14;
+  font-family: sans-s erif;
+}
+header,
+section,
+footer,
+aside,
+nav,
+article {
+  display: block;
+}
+body {
+  text-align: center;
+}
+.agrupar {
+  width: 950px;
+  margin: 15px auto;
+  border: 2px solid black;
+}
+.header {
+  background-color: #fffbb9;
+  border: 3px solid #dccec6;
+  padding: 12px;
+}
+.header h1 {
+  text-align: left;
+}
+.menu li {
+  background-color: #fffbb9;
+  display: inline-block;
+  padding: 5px 15px;
+}
+.menu {
+  text-align: left;
+}
+.seccion {
+  margin: 20px;
+  border: 1px solid black;
+}
+footer {
+  background-color: #fffbb9;
+  font-family: cursive;
+}
+h2 {
+  font-family: cursive;
+}
